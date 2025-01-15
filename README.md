@@ -25,7 +25,6 @@ In this assignment, we develop a *language model* (LM) for joint *intent classif
 
 _References_
 1. [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909), Qian Chen et al., 2019
-2. [BERT base/large model](https://huggingface.co/google-bert/bert-base-uncased)
 
 
 ## Assignment 3: Polarity Classification
