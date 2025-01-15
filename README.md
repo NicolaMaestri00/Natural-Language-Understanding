@@ -32,6 +32,14 @@ _References_
 _References_
 1. [Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification](https://arxiv.org/abs/1906.03820), Minghao Hu et al., 2019
 
+
+## Assignment 4: Building a LLM
+
+[Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=0s)
+
+## Assignment 5: Building a Machine Translator
+
+
 ## Course Syllabus
 - Basic concepts (corpus, lexicon, token, Ngrams, frequency list, stop words)
 - Experimental Methodology in Natural Language Processing (Bag of words for document classification)
