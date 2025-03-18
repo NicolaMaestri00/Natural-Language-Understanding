@@ -26,19 +26,19 @@ In this assignment, we develop a *language model* (LM) for joint *intent classif
 _References_
 1. [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909), Qian Chen et al., 2019
 
+<!-- 
+## Assignment 3: Polarity Classification
 
-% ## Assignment 3: Polarity Classification
-
-%_References_
-%1. [Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification](https://arxiv.org/abs/1906.03820), Minghao Hu et al., 2019
+_References_
+1. [Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification](https://arxiv.org/abs/1906.03820), Minghao Hu et al., 2019
 
 
-%## Assignment 4: Building a LLM
+## Assignment 4: Building a LLM
 
-%[Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=0s)
+[Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=0s)
 
-%## Assignment 5: Building a Machine Translator
-
+## Assignment 5: Building a Machine Translator
+-->
 
 ## Course Syllabus
 - Basic concepts (corpus, lexicon, token, Ngrams, frequency list, stop words)
