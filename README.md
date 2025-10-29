@@ -1,4 +1,4 @@
-# Natural Language Understanding
+# 💬 Natural Language Understanding
 
 ## Assignment 1: *Languange models and regularization strategies*
 
