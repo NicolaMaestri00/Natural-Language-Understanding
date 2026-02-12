@@ -1,5 +1,4 @@
 # 🔤 Natural Language Understanding
-
 > 🏫 University of Trento | ✒️ Natural Language Understanding | 📅 A.Y. 2023/2024 | 📗 Assignments
 
 ## Assignment 1: *Languange models and regularization strategies*
