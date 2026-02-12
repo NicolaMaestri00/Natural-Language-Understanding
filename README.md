@@ -1,5 +1,7 @@
 # 🔤 Natural Language Understanding
 
+> 🏫 University of Trento | ✒️ Natural Language Understanding | 📅 A.Y. 2023/2024 | 📗 Assignments
+
 ## Assignment 1: *Languange models and regularization strategies*
 
 In this assignment, we develop a *language model* (LM) to represent the probability distribution over a sequence of tokens. Starting with a *vanilla recurrent neural network* (RNN) followed by a linear and softmax layer trained using *stochastic gradient descent*, we explore various enhancements. Experiments incorporating *Long-Short Term Memory* (LSTM) networks, *dropout layers*, and the *AdamW* optimizer result in a significant reduction in test set perplexity. Applying *Weight Tying*, *Variational Dropout*, and *Non-monotonically Triggered Averaged SGD* (NT-ASGD) further reduce the perplexity to **104**, surpassing the baseline by more than **50** points.
